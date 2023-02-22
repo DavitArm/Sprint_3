@@ -1,1 +1,15 @@
-"# Sprint_3" 
+"# Sprint_3"
+
+# test_registration
+# test_entry_by_login_button
+# test_entry_by_personal_area_button
+# test_entry_by_button_registration_form
+# test_entry_by_button_password_recovery_form
+# test_transition_by_clicking_on_personal_account
+# test_transition_by_click_from_personal_account_to_the_constructor
+# test_transition_by_click_from_personal_account_to_the_stellar_burgers_logo
+# test_transition_the_section_Sauces
+# test_transition_the_section_toppings
+# test_transition_the_section_rolls
+# test_logout_by_clicking_Logout_button_in_personal_account
+
